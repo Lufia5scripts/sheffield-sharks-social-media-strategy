@@ -1,5 +1,7 @@
 # Sheffield Sharks Standard Ticket Anlaysis
-An in‑depth analysis of Sheffield Sharks’ standard ticket prices, using descriptive statistics and league comparisons to highlight the club’s position within the Super League Basketball market.
+To compile this analysis, I gathered all ticket pricing data through independent research: visiting each club’s official website, cross‑checking ticketing pages, and, where necessary, contacting clubs directly to confirm unclear or inconsistent information. This process proved more involved than expected, as pricing structures vary widely across the league, with several clubs offering multiple tiers, online discounts, and at the door premiums that required careful interpretation to ensure fair comparisons.
+
+The dataset I constructed covers three ticket categories: adult standard, concession standard, and child standard, across clubs competing in the Super League Basketball. Using this dataset as a foundation, the analysis examines where Sheffield Sharks sit within the league’s broader pricing landscape. Rather than simply listing prices, the aim is to contextualise the Sharks position through descriptive statistics, exploring measures of central tendency (mean, median, mode) and indicators of spread (range, interquartile range). This approach provides a clearer understanding of whether the Sharks offer value for money across different audience groups, how they compare to both budget and premium clubs, and what the league’s pricing structure reveals about the wider Super League Basketball market.
 
 ![SLB Standard Adult](visuals/slbstandardadult.png)
 
