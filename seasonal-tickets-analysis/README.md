@@ -18,11 +18,11 @@ The dataset contains 14 adult season ticket prices across the Super League Baske
 - Unique Installment Option (£34)
 The £34 Leicester Riders monthly installment is a unique pricing feature within the league. It is not a full season price and instead represents a payment plan designed to increase accessibility. No other club currently offers a comparable structure.
 This approach lowers the barrier to entry, attracts younger fans, students, and families, smooths revenue across the season, and reduces the psychological impact of a large upfront cost.
-For the Sheffield Sharks, this is a feature that could realistically be adopted. It would increase affordability, align with modern subscription‑style pricing, potentially boost season ticket uptake, and position the club as fan‑friendly and financially flexible. Although the £34 value is not comparable to full‑season prices, it is analytically important because it highlights an innovation in pricing strategy.
+For the Sheffield Sharks, this is a feature that could realistically be adopted. It would increase affordability, align with modern subscription style pricing, potentially boost season ticket uptake, and position the club as fan friendly and financially flexible. Although the £34 value is not comparable to full‑season prices, it is analytically important because it highlights an innovation in pricing strategy.
 
 - Price Distribution (Full Dataset)
 The prices span from £34 to £369, giving a total spread of £335. This spread is inflated by the installment plan.
-When focusing on full‑season prices only, the lowest price is £200 and the highest is £369, giving a spread of £169. This highlights a large premium gap between standard and high‑end seating.
+When focusing on full season prices only, the lowest price is £200 and the highest is £369, giving a spread of £169. This highlights a large premium gap between standard and high‑end seating.
 
 - Sheffield Sharks Positioning
 The Sharks offer two season ticket prices: £200 for existing season ticket holders and £288 for new season ticket holders.
