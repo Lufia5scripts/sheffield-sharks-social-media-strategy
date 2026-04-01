@@ -63,3 +63,8 @@ The concession market is structured but varied, with clubs adopting different ph
 - Summary Insight
 The £25 installment option is a deliberate strategic choice rather than an outlier, signalling a shift toward more flexible and accessible pricing. For the Sharks, adopting a similar model could support wider engagement and increase season ticket uptake. Their current concession prices place them securely within the competitive mid‑range of the league, offering strong value for loyal supporters while maintaining consistency with broader market trends.
 
+<br>
+<br>
+
+![Season ticket prices](visuals/slbseasonalchild.png)
+
