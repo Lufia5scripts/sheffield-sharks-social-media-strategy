@@ -1,2 +1,1 @@
-# Data Analytics Portfolio
-This repository brings together a collection of data analytics projects exploring a range of topics, datasets, and analytical techniques. Each project is built independently from sourcing and cleaning real‑world data to applying statistical methods, visualisation, and interpretation to uncover meaningful insights. The aim of this portfolio is to demonstrate a consistent, rigorous approach to analysis across different domains, showing how I investigate questions, structure data, and communicate findings clearly. As the portfolio grows, it will continue to reflect my development as an analyst through diverse, well‑documented, and insight‑driven work.
+
